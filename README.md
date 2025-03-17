@@ -1,4 +1,4 @@
 # smdemo
-Author-Shreya Mishra
+Author-Shreya (ABES)
 <br>
 Using README
